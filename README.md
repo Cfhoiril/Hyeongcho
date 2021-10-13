@@ -9,4 +9,4 @@ Hyeongcho/Hyeongcho is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ettokun&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongcho&show_icons=true&count_private=true)  
